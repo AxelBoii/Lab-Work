@@ -1,0 +1,55 @@
+body{
+    padding:20px;
+    text-align: center;
+    background-color: #313131;
+}
+
+#res{
+    height: 50px;
+    width: 500px;
+    margin:0 auto;
+    background-color: #171717;
+    color: #808080;
+    text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+}
+
+#firstNumber{
+    height: 50px;
+    width: 241px;
+    background-color: #171717;
+    color: #808080;
+    text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+}
+#secondNumber{
+    height: 50px;
+    width: 241px;
+    background-color: #171717;
+    color: #808080;
+    text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+}
+
+#sgn{
+    height: 50px;
+    width: 50px;
+    background-color: #171717;
+    color: #808080;
+    text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+}
+
+#equals{
+    height: 50px;
+    width: 50px;
+    background-color: #171717;
+    color: #808080;
+    text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+}
